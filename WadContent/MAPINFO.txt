@@ -1,0 +1,23 @@
+skill 2brutal
+{
+  FastMonsters
+  SpawnFilter = Hard
+  Name = "RNG"
+  ReplaceActor = "Arachnotron", "DMSpawner"
+  ReplaceActor = "Archvile", "DMSpawner"
+  ReplaceActor = "BaronOfHell", "DMSpawner"
+  ReplaceActor = "HellKnight", "DMSpawner"
+  ReplaceActor = "Cacodemon", "DMSpawner"
+  ReplaceActor = "Cyberdemon", "DMSpawner"
+  ReplaceActor = "Demon", "DMSpawner"
+  ReplaceActor = "DoomImp", "DMSpawner"
+  ReplaceActor = "Fatso", "DMSpawner"
+  ReplaceActor = "LostSoul", "DMSpawner"
+  ReplaceActor = "PainElemental", "DMSpawner"
+  ReplaceActor = "ZombieMan", "DMSpawner"
+  ReplaceActor = "ShotgunGuy", "DMSpawner"
+  ReplaceActor = "ChaingunGuy", "DMSpawner"
+  ReplaceActor = "WolfensteinSS", "DMSpawner"
+  ReplaceActor = "Revenant", "DMSpawner"
+  ReplaceActor = "SpiderMastermind", "DMSpawner"
+}
