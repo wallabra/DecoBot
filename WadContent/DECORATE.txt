@@ -474,16 +474,6 @@ actor DMSpawner : RandomSpawner 24002
 	DropItem "DMColored10"
 }
 
-actor DMSpawnerLoop 24003
-{
-	States
-	{
-		Spawn:
-			TNT1 A 512 A_SpawnItemEx("DMSpawner", 0, 0, 20, random(-6, 6), random(-6, 6), random(3, 7))
-			loop
-	}
-}
-
 /*actor DMSpawnerNazi : RandomSpawner Replaces WolfensteinSS
 {
     DropItem "DMColored0"
